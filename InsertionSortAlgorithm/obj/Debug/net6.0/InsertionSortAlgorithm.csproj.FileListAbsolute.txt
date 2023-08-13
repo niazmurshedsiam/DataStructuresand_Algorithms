@@ -1,0 +1,15 @@
+D:\Day_15\Algo&Data\InsertionSortAlgorithm\bin\Debug\net6.0\InsertionSortAlgorithm.exe
+D:\Day_15\Algo&Data\InsertionSortAlgorithm\bin\Debug\net6.0\InsertionSortAlgorithm.deps.json
+D:\Day_15\Algo&Data\InsertionSortAlgorithm\bin\Debug\net6.0\InsertionSortAlgorithm.runtimeconfig.json
+D:\Day_15\Algo&Data\InsertionSortAlgorithm\bin\Debug\net6.0\InsertionSortAlgorithm.dll
+D:\Day_15\Algo&Data\InsertionSortAlgorithm\bin\Debug\net6.0\InsertionSortAlgorithm.pdb
+D:\Day_15\Algo&Data\InsertionSortAlgorithm\obj\Debug\net6.0\InsertionSortAlgorithm.csproj.AssemblyReference.cache
+D:\Day_15\Algo&Data\InsertionSortAlgorithm\obj\Debug\net6.0\InsertionSortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day_15\Algo&Data\InsertionSortAlgorithm\obj\Debug\net6.0\InsertionSortAlgorithm.AssemblyInfoInputs.cache
+D:\Day_15\Algo&Data\InsertionSortAlgorithm\obj\Debug\net6.0\InsertionSortAlgorithm.AssemblyInfo.cs
+D:\Day_15\Algo&Data\InsertionSortAlgorithm\obj\Debug\net6.0\InsertionSortAlgorithm.csproj.CoreCompileInputs.cache
+D:\Day_15\Algo&Data\InsertionSortAlgorithm\obj\Debug\net6.0\InsertionSortAlgorithm.dll
+D:\Day_15\Algo&Data\InsertionSortAlgorithm\obj\Debug\net6.0\refint\InsertionSortAlgorithm.dll
+D:\Day_15\Algo&Data\InsertionSortAlgorithm\obj\Debug\net6.0\InsertionSortAlgorithm.pdb
+D:\Day_15\Algo&Data\InsertionSortAlgorithm\obj\Debug\net6.0\InsertionSortAlgorithm.genruntimeconfig.cache
+D:\Day_15\Algo&Data\InsertionSortAlgorithm\obj\Debug\net6.0\ref\InsertionSortAlgorithm.dll
