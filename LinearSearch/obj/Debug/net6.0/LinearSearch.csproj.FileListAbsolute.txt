@@ -1,0 +1,15 @@
+D:\Day_15\Algo&Data\LinearSearch\bin\Debug\net6.0\LinearSearch.exe
+D:\Day_15\Algo&Data\LinearSearch\bin\Debug\net6.0\LinearSearch.deps.json
+D:\Day_15\Algo&Data\LinearSearch\bin\Debug\net6.0\LinearSearch.runtimeconfig.json
+D:\Day_15\Algo&Data\LinearSearch\bin\Debug\net6.0\LinearSearch.dll
+D:\Day_15\Algo&Data\LinearSearch\bin\Debug\net6.0\LinearSearch.pdb
+D:\Day_15\Algo&Data\LinearSearch\obj\Debug\net6.0\LinearSearch.csproj.AssemblyReference.cache
+D:\Day_15\Algo&Data\LinearSearch\obj\Debug\net6.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day_15\Algo&Data\LinearSearch\obj\Debug\net6.0\LinearSearch.AssemblyInfoInputs.cache
+D:\Day_15\Algo&Data\LinearSearch\obj\Debug\net6.0\LinearSearch.AssemblyInfo.cs
+D:\Day_15\Algo&Data\LinearSearch\obj\Debug\net6.0\LinearSearch.csproj.CoreCompileInputs.cache
+D:\Day_15\Algo&Data\LinearSearch\obj\Debug\net6.0\LinearSearch.dll
+D:\Day_15\Algo&Data\LinearSearch\obj\Debug\net6.0\refint\LinearSearch.dll
+D:\Day_15\Algo&Data\LinearSearch\obj\Debug\net6.0\LinearSearch.pdb
+D:\Day_15\Algo&Data\LinearSearch\obj\Debug\net6.0\LinearSearch.genruntimeconfig.cache
+D:\Day_15\Algo&Data\LinearSearch\obj\Debug\net6.0\ref\LinearSearch.dll
