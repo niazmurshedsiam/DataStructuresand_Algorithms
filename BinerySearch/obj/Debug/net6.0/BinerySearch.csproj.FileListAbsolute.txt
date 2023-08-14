@@ -1,0 +1,15 @@
+D:\Day_15\Algo&Data\BinerySearch\bin\Debug\net6.0\BinerySearch.exe
+D:\Day_15\Algo&Data\BinerySearch\bin\Debug\net6.0\BinerySearch.deps.json
+D:\Day_15\Algo&Data\BinerySearch\bin\Debug\net6.0\BinerySearch.runtimeconfig.json
+D:\Day_15\Algo&Data\BinerySearch\bin\Debug\net6.0\BinerySearch.dll
+D:\Day_15\Algo&Data\BinerySearch\bin\Debug\net6.0\BinerySearch.pdb
+D:\Day_15\Algo&Data\BinerySearch\obj\Debug\net6.0\BinerySearch.csproj.AssemblyReference.cache
+D:\Day_15\Algo&Data\BinerySearch\obj\Debug\net6.0\BinerySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day_15\Algo&Data\BinerySearch\obj\Debug\net6.0\BinerySearch.AssemblyInfoInputs.cache
+D:\Day_15\Algo&Data\BinerySearch\obj\Debug\net6.0\BinerySearch.AssemblyInfo.cs
+D:\Day_15\Algo&Data\BinerySearch\obj\Debug\net6.0\BinerySearch.csproj.CoreCompileInputs.cache
+D:\Day_15\Algo&Data\BinerySearch\obj\Debug\net6.0\BinerySearch.dll
+D:\Day_15\Algo&Data\BinerySearch\obj\Debug\net6.0\refint\BinerySearch.dll
+D:\Day_15\Algo&Data\BinerySearch\obj\Debug\net6.0\BinerySearch.pdb
+D:\Day_15\Algo&Data\BinerySearch\obj\Debug\net6.0\BinerySearch.genruntimeconfig.cache
+D:\Day_15\Algo&Data\BinerySearch\obj\Debug\net6.0\ref\BinerySearch.dll
