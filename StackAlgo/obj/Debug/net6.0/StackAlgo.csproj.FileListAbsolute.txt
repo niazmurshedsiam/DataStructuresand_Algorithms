@@ -1,0 +1,15 @@
+D:\Day_15\Algo&Data\StackAlgo\bin\Debug\net6.0\StackAlgo.exe
+D:\Day_15\Algo&Data\StackAlgo\bin\Debug\net6.0\StackAlgo.deps.json
+D:\Day_15\Algo&Data\StackAlgo\bin\Debug\net6.0\StackAlgo.runtimeconfig.json
+D:\Day_15\Algo&Data\StackAlgo\bin\Debug\net6.0\StackAlgo.dll
+D:\Day_15\Algo&Data\StackAlgo\bin\Debug\net6.0\StackAlgo.pdb
+D:\Day_15\Algo&Data\StackAlgo\obj\Debug\net6.0\StackAlgo.csproj.AssemblyReference.cache
+D:\Day_15\Algo&Data\StackAlgo\obj\Debug\net6.0\StackAlgo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day_15\Algo&Data\StackAlgo\obj\Debug\net6.0\StackAlgo.AssemblyInfoInputs.cache
+D:\Day_15\Algo&Data\StackAlgo\obj\Debug\net6.0\StackAlgo.AssemblyInfo.cs
+D:\Day_15\Algo&Data\StackAlgo\obj\Debug\net6.0\StackAlgo.csproj.CoreCompileInputs.cache
+D:\Day_15\Algo&Data\StackAlgo\obj\Debug\net6.0\StackAlgo.dll
+D:\Day_15\Algo&Data\StackAlgo\obj\Debug\net6.0\refint\StackAlgo.dll
+D:\Day_15\Algo&Data\StackAlgo\obj\Debug\net6.0\StackAlgo.pdb
+D:\Day_15\Algo&Data\StackAlgo\obj\Debug\net6.0\StackAlgo.genruntimeconfig.cache
+D:\Day_15\Algo&Data\StackAlgo\obj\Debug\net6.0\ref\StackAlgo.dll
